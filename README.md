@@ -1,4 +1,4 @@
-<video src={https://videos.pexels.com/video-files/16296848/16296848-uhd_2560_1440_24fps.mp4} loop muted autoplay/>
+<video src="https://videos.pexels.com/video-files/16296848/16296848-uhd_2560_1440_24fps.mp4" loop muted autoplay/>
 
 ###
 
