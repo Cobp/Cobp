@@ -1,12 +1,4 @@
-<h2 align="left">Hello, my name is Fabio Adrian Cobb Iraghua</h2>
-
-###
-
-<img align="right" height="200" src="https://media1.tenor.com/m/EcPgrrY9IJAAAAAC/frieren-anime-frieren.gif"  />
-
-###
-
-<p align="left">I am passionate about software development and 3D development - modeling, whether for the commercial or entertainment world. In my free time, I enjoy music, video games, and coffee.<br><br>- ❤️ Proactive, polite, organized.<br>- 💛 Bolivian-Cruceño<br>- 💚 🤍 💚 Bachelor</p>
+<video src={https://videos.pexels.com/video-files/16296848/16296848-uhd_2560_1440_24fps.mp4} loop muted autoplay/>
 
 ###
 
