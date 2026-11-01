@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/736x/3d/fb/3e/3dfb3e39a1e4de572d18053a99500313.jpg" alt="Fabio Cobb — Systems Engineer, Developer and Designer" width="100%" />
 
-# ¡Hola! Soy Fabio Adrian Cobb Iraghua
+# ¡Hey 👋! Soy Fabio Cobb
 
 **Ingeniero de Sistemas · Desarrollador Web · Diseñador UI/UX**
 
@@ -31,6 +31,7 @@ Me gusta aprender, los desafíos, el café y la música. Soy Cruceño de corazó
 <div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=react,angular,astro&perline=7)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,cs&perline=7)](https://skillicons.dev)
 </div>
 
