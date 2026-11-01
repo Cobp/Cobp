@@ -33,31 +33,6 @@ Soy estudiante de Ingeniería en Sistemas y desarrollador web con interés en cr
 
 </div>
 
-## 🚀 Proyectos destacados
-
-### [EpiMap](https://github.com/Cobp/EpiMap-Front)
-Sistema web de mapa epidemiológico para la recolección, análisis y visualización de datos de salud. Integra mapas interactivos y reportes para facilitar la interpretación de información.
-
-**Tecnologías:** Angular · TypeScript · Google Maps
-
-### Control de asistencia con QR
-Sistema orientado al registro de entradas y salidas de personal mediante códigos QR, con validación por ubicación y herramientas de administración.
-
-**Tecnologías:** Angular · Node.js · MySQL
-
-### Plataforma de organización de eventos
-Propuesta de plataforma para explorar y reservar locales, consultar servicios y apoyar la organización de eventos.
-
-**Tecnologías:** Desarrollo web · Diseño de interfaces · Modelado de datos
-
-> Los proyectos sin enlace público se describen como trabajos en desarrollo o conceptos de proyecto.
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cobp&hide_border=true&theme=transparent)](https://git.io/streak-stats)
-
-</div>
-
 ## 🎯 En qué estoy enfocado
 
 - Crear aplicaciones web accesibles, responsivas y mantenibles.
