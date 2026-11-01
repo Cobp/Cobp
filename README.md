@@ -4,7 +4,7 @@
 
 # ¡Hola! Soy Fabio Cobb 👋
 
-**Estudiante de Ingeniería en Sistemas · Desarrollador Web · Diseñador UI/UX**
+**Ingeniero de Sistemas · Desarrollador Web · Diseñador UI/UX**
 
 Construyendo soluciones digitales con código, diseño y análisis.
 
@@ -17,7 +17,7 @@ Construyendo soluciones digitales con código, diseño y análisis.
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de Ingeniería en Sistemas y desarrollador web con interés en crear aplicaciones útiles, interfaces claras y soluciones tecnológicas bien estructuradas. Trabajo tanto en el frontend como en el backend, y disfruto convertir requisitos e ideas en productos digitales funcionales.
+Desarrollador web, con interés en crear aplicaciones útiles, interfaces claras y soluciones tecnológicas bien estructuradas. Trabajo tanto en el frontend como en el backend, y disfruto convertir requisitos e ideas en productos digitales funcionales.
 
 - 🌐 Desarrollo de aplicaciones web **frontend y backend**.
 - 🎨 Diseño de interfaces centradas en la experiencia de usuario.
