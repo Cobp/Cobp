@@ -24,16 +24,19 @@ Me gusta aprender, los desafíos, el café y la música. Soy Cruceño de corazó
 
 ## Tecnologías y herramientas
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github)](https://skillicons.dev)
+  
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github&perline=7)](https://skillicons.dev)
 </div>
 
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=react,angular,astro)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,cs)](https://skillicons.dev)
+  
+[![My Skills](https://skillicons.dev/icons?i=react,angular,astro&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,cs&perline=7)](https://skillicons.dev)
 </div>
 
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase,terraform)](https://skillicons.dev)
+  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase,terraform&perline=7)](https://skillicons.dev)
 </div>
 
 ## En qué estoy enfocado
