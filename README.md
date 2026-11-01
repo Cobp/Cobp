@@ -52,19 +52,6 @@ Propuesta de plataforma para explorar y reservar locales, consultar servicios y 
 
 > Los proyectos sin enlace público se describen como trabajos en desarrollo o conceptos de proyecto.
 
-## 📈 Actividad en GitHub
-
-<div align="center">
-
-<a href="https://github.com/Cobp">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cobp&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estadísticas de GitHub" />
-</a>
-<a href="https://github.com/Cobp">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cobp&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más utilizados" />
-</a>
-
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Cobp&hide_border=true&theme=transparent)](https://git.io/streak-stats)
@@ -77,23 +64,3 @@ Propuesta de plataforma para explorar y reservar locales, consultar servicios y 
 - Mejorar mis prácticas de arquitectura, calidad de código y seguridad.
 - Explorar infraestructura como código, contenedores y despliegues.
 - Practicar algoritmos y estructuras de datos para programación competitiva.
-
-## 📬 Contacto
-
-La mejor forma de ver mi trabajo y contactar conmigo es a través de GitHub:
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github)](https://github.com/Cobp)
-
-</div>
-
----
-
-<div align="center">
-
-*“La mejor manera de predecir el futuro es construirlo.”*
-
-**Gracias por visitar mi perfil.** ⭐
-
-</div>
